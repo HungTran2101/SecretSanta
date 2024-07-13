@@ -1,2 +1,2 @@
 # SecretSanta
-A website about secret Santa event for my discord server
+A website about Secret Santa event for my discord server
